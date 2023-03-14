@@ -23,3 +23,4 @@ Here is the display if what u search has a treasure in it. In this case, [0, 2] 
   
 ![Screenshot (358)](https://user-images.githubusercontent.com/91310041/224777064-cd4b7790-4c90-4b52-a1dc-d4e146f88e5e.png)  
 Here is the display if you complete the game.  
+For further description, it is in the comments in the program
